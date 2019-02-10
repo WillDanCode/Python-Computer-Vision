@@ -10,7 +10,15 @@
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/polynomial.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/polynomial/polyutils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/numpy/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackerrank/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackerrank/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackerrank/Interview Preparation/Counting Valleys.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackerrank/Interview Preparation/Sock Merchant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hackerrank/Tokopedia Internship/Maximum Difference Array.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Machine Learning/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Image Processing/Tugas2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Image Processing/Tugas2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Image Processing/.idea/Computer Vision.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Image Processing/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Image Processing/.idea/misc.xml" beforeDir="false" />
@@ -1535,12 +1543,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Image Processing/Tugas1.py">
+        <entry file="file://$PROJECT_DIR$/Image Processing/Tugas2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            <state relative-caret-position="526">
+              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
               <folding>
-                <element signature="e#0#18#0" expanded="true" />
+                <element signature="e#83#101#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -1549,7 +1557,7 @@
     </leaf>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -1561,6 +1569,9 @@
         <option value="$PROJECT_DIR$/Image Processing/Smoothing.py" />
         <option value="$PROJECT_DIR$/Image Processing/Thresholding.py" />
         <option value="$PROJECT_DIR$/Image Processing/Tugas1.py" />
+        <option value="$PROJECT_DIR$/Image Processing/Tugas2Man.py" />
+        <option value="$PROJECT_DIR$/Image Processing/Tugas2.py" />
+        <option value="$PROJECT_DIR$/Computer Vision/OpenCV.ipynb" />
       </list>
     </option>
   </component>
@@ -1587,7 +1598,7 @@
             <path>
               <item name="Computer Vision" type="b2602c69:ProjectViewProjectNode" />
               <item name="Computer Vision" type="462c0819:PsiDirectoryNode" />
-              <item name="Image Processing" type="462c0819:PsiDirectoryNode" />
+              <item name="Computer Vision" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -1597,7 +1608,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -1611,7 +1622,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.UjiNumpy">
+  <component name="RunManager" selected="Python.Tugas2">
     <configuration name="Tugas1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Computer Vision" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -1719,10 +1730,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Tugas2" />
         <item itemvalue="Python.UjiNumpy" />
         <item itemvalue="Python.Tugas3" />
         <item itemvalue="Python.Tugas2Man" />
-        <item itemvalue="Python.Tugas2" />
         <item itemvalue="Python.Tugas1" />
       </list>
     </recent_temporary>
@@ -1742,14 +1753,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1794,36 +1804,6 @@
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Processing/Tugas2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#83#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Processing/Tugas2Man.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#83#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Processing/Tugas3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="e#83#101#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Image Processing/UjiNumpy.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Image Processing/Morphology.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1897,6 +1877,47 @@
           <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Processing/Tugas3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Processing/UjiNumpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Processing/Tugas2Man.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#83#101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Computer Vision/OpenCV.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Image Processing/Tugas2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding>
+            <element signature="e#83#101#0" expanded="true" />
           </folding>
         </state>
       </provider>
